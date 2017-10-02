@@ -6,4 +6,4 @@ The neural network is trained using u-net-v5.ipynb.
 
 The data_utils contains all codes to prepare data and perform data augmentation. 
 
-The keras_util implement custom metric and loss. (dice coefficient and boundary penalized loss)
+The keras_custom implement custom metric and loss. (dice coefficient and boundary penalized loss)

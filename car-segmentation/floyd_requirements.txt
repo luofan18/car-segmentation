@@ -1,0 +1,12 @@
+tqdm
+numpy
+pandas
+matplotlib
+scipy
+sklearn
+opencv
+itchat #pip
+scikit-image
+keras
+tensorflow
+line_profiler

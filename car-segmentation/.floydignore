@@ -1,0 +1,20 @@
+
+# Directories and files to ignore when uploading code to floyd
+
+.git
+.eggs
+eggs
+lib
+lib64
+parts
+sdist
+var
+*.pyc
+*.swp
+.DS_Store
+tmp/
+U-net-v2.ipynb
+weights-best-in-52.hdf5
+tmp-weights.hdf5
+tmp.wights.hdf5
+.ipynb_checkpoints/

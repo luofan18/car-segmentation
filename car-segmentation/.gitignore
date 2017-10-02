@@ -1,0 +1,6 @@
+log/
+old/
+tmp/
+
+*.hdf5
+*.pkl

@@ -9,7 +9,9 @@ The data_utils contains all codes to prepare data and perform data augmentation.
 The keras_custom implement custom metric and loss. (dice coefficient and boundary penalized loss)
 
 Overall network architecture is as follow:
-
+  
+    
+    
 ![Network architecture][architecture]
 
 [architecture]: Architecture.png

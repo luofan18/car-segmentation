@@ -12,4 +12,4 @@ Overall network architecture is as follow:
 
 ![Network architecture][architecture]
 
-[architecture]: architecture.png
+[architecture]: Architecture.png
